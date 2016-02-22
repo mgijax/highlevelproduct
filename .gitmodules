@@ -1,0 +1,3 @@
+[submodule "submoduleproduct1"]
+	path = submoduleproduct1
+	url = git@github.com:mgijax/submoduleproduct1.git
